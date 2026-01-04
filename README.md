@@ -39,7 +39,6 @@ This project is created **only for practice** to improve HTML fundamentals and p
 ## 📈 Future Enhancements
 - Add CSS for styling
 - Make the resume responsive
-- Add JavaScript for interactivity
 - Improve UI and layout
 
 ## 👤 Author
